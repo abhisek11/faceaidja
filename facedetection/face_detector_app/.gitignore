@@ -1,0 +1,6 @@
+__pycache__/
+*.vscode
+migrations/
+settings.py
+db.sqlite3
+faceenv/
